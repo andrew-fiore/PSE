@@ -12,12 +12,10 @@ Donev, and James W. Swan, The Journal of Chemical Physics, **146**,
 
 
 ## Files that come in this template
- - doc/TUTORIAL.pdf : a tutorial to use PSE.
  - CMakeLists.txt   : main CMake configuration file for the plugin
  - FindHOOMD.cmake  : script to find a HOOMD-Blue installation to link against
  - README           : This file
  - PSEv1            : Directory containing C++ and CUDA source code that interacts with HOOMD. Also contains python UI level source code that drives the C++ module
- - cppmodule        : Directory containing C++ and CUDA source code that interacts with HOOMD
  - examples/run.py  : python example to use PSE.
 
 ## Software requirements
